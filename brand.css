@@ -3,7 +3,7 @@
   --primary:    #f09b83;   /* warm orange-brown — buttons, headings */
   --background: #b9e3aa;   /* soft warm beige — page backgrounds */
   --accent:     #d5fbdf;   /* mint green — highlights */
-  --dark:       #413f3f;   /* near-black — body text */
+  --dark:       #000000;   /* near-black — body text */
   --white:      #FFFFFF;
 }
 
