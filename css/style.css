@@ -578,6 +578,12 @@ img, picture, video {
   .hero h1 { font-size: 1.9rem; }
   .section-title { font-size: 1.5rem; }
   .section-subtitle { font-size: 1rem; }
+  .stats-bar {
+    flex-direction: column;
+    gap: 24px;
+    padding: 28px 16px;
+  }
+  .stat-number { font-size: 2rem; }
   .card-grid { grid-template-columns: 1fr; gap: 18px; }
   .gallery-placeholder { height: 160px; }
   .team-avatar { width: 80px; height: 80px; font-size: 1.6rem; }
